@@ -1,0 +1,11 @@
+{
+  "name": "playergame",
+  "version": "1.0.0",
+  "description": "testgame",
+  "main": "Player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yanhui Wu",
+  "license": "ISC"
+}
